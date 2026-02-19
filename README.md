@@ -1,6 +1,6 @@
 ## About Me
 ### Background
-Hey there! I'm Lindsay McNary. I am in my third year majoring in Statistics and minoring in Computer Science. 
+Hey there! I am in my third year, majoring in Statistics and minoring in Computer Science. 
 I love learning about new topics for statistics. I am currently looking for internships.
 
 ### Education

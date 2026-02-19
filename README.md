@@ -9,15 +9,15 @@ Relevant Coursework: Principles of Statistics, Statistical Modeling, Applied R p
 Inference, Data Science Process 
 
 Skills & Interests
-• Machine Learning 
-• Data Engineering 
-• Familiar with APIs and ETLs 
-• Regression and Logistic Regression Models  
+- Machine Learning 
+- Data Engineering 
+- Familiar with APIs and ETLs 
+- Regression and Logistic Regression Models  
 
 Technical Skills
-• Strong Communicator
-• Time Management 
-• Data Visualization
+- Strong Communicator
+- Time Management 
+- Data Visualization
 
 Programming: Python, R, C++, SQL
 Data Analysis: Pandas, NumPy
